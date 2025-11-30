@@ -30,9 +30,9 @@ class TaskRepository(application: Application) {
                     if (tasks.isEmpty()) {
                         android.util.Log.d("TaskRepository", "No tasks found for user $email")
                     } else {
-                        tasks.forEach { task ->
-                            android.util.Log.d("TaskRepository", "Task: ${task.title}, Status: ${task.status}, ProjectId: ${task.projectId}")
-                        }
+//                        tasks.forEach { task ->
+//                            android.util.Log.d("TaskRepository", "Task: ${task.title}, Status: ${task.status}, ProjectId: ${task.projectId}")
+//                        }
                     }
                 }
             }

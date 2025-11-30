@@ -1,49 +1,33 @@
 {
   "project_info": {
-    "project_number": "178066863512",
-    "project_id": "mork-project-management-app",
-    "storage_bucket": "mork-project-management-app.firebasestorage.app"
+    "project_number": "285858800862",
+    "project_id": "mork-app-zeyulin",
+    "storage_bucket": "mork-app-zeyulin.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:178066863512:android:1fd730c91d2e9618c0a7ed",
+        "mobilesdk_app_id": "1:285858800862:android:72f5501163bb3fbccd0e4f",
         "android_client_info": {
           "package_name": "com.example.fit5046a2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "178066863512-8haql7s55ocq9halfa26no50t31jpeit.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.fit5046a2",
-            "certificate_hash": "71cec797a78f7c18e58fb550cd97b4ee37250fb9"
-          }
-        },
-        {
-          "client_id": "178066863512-v6tg9vlr6u9e98pm17rai3mmbmfd3t59.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.fit5046a2",
-            "certificate_hash": "630c4b348b07199663ca4ad4ab426b58b62b4dcb"
-          }
-        },
-        {
-          "client_id": "178066863512-8cloahg8c7uln25f7e90ho5n76e7ngdt.apps.googleusercontent.com",
+          "client_id": "285858800862-9a6svnq5tfjccmtl1i2tgo14ggiks618.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCQ8R37dXQ9JtJnogofYm0fWs-Nzw2EikI"
+          "current_key": "AIzaSyAxNXm5ecn2nCyWMdo6KqPM3e37smcjNWc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "178066863512-8cloahg8c7uln25f7e90ho5n76e7ngdt.apps.googleusercontent.com",
+              "client_id": "285858800862-9a6svnq5tfjccmtl1i2tgo14ggiks618.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
